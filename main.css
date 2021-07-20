@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.25rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  margin: 2rem 0;
+  color: orange;
+}
+
+p {
+  margin-bottom: 1.5rem;
+}
+
+a:link,
+a:visited {
+  color: rgb(11, 158, 109);
+  margin-bottom: 3rem;
+}
